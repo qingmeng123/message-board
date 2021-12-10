@@ -9,3 +9,5 @@ post(post_id,username,txt,comment_num,post_time,state)
 通过字典树对回复内容或用户名进行敏感字查询，有密码长度检验
 回复套娃：
 指定to_comment_id时，对其回复
+
+后续继续加功能。。。
